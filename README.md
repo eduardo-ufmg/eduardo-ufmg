@@ -2,7 +2,7 @@
 - 👀 I’m interested in digital design and embedded systems
 - 🌱 I’m currently learning research methodology
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: eduardohbc@ufmg.br, [curriculum vitae](eduardo-ufmg.github.io)
+- 📫 How to reach me: eduardohbc@ufmg.br, [curriculum vitae](https://eduardo-ufmg.github.io/index-en.html)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love Clarice Lispector's books
 
